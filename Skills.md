@@ -20,7 +20,7 @@ title: Skills
 >
 * [Github](https://github.com) 
 * Rest API
-* [Android Studio] 
+* Android Studio
 * [VSC](https://code.visualstudio.com/)
 * [Postman](https://www.postman.com/)
 
