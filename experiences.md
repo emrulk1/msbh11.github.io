@@ -8,7 +8,7 @@ title: Experiences
 ― Randy Pausch, The Last Lecture</i>
 </p>
 
-## Software Developer Intern - [Rich IT]() 
+## Software Development Intern - [Rich IT]() 
 
 *Sep 2019 - Mar 2020*
 
