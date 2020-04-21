@@ -36,12 +36,12 @@ html {
 }
 @media (min-width: 48em) {
   html {
-    font-size: 16px;
+    font-size: 14px;
   }
 }
 @media (min-width: 58em) {
   html {
-    font-size: 20px;
+    font-size: 18px;
   }
 }
 
@@ -58,6 +58,7 @@ html {
   padding: 2rem 1rem;
   color: rgba(255,255,255,.5);
   background-color: #202020;
+  overflow-y: auto;
 }
 @media (min-width: 48em) {
   .sidebar {
@@ -67,6 +68,10 @@ html {
     bottom: 0;
     width: 18rem;
     text-align: left;
+  }
+
+  .center {
+    width: 25%;
   }
 }
 
@@ -80,7 +85,7 @@ html {
   color: #fff;
   margin-top: 0;
   font-family: "Abril Fatface", serif;
-  font-size: 3.25rem;
+  font-size: 2.75rem;
 }
 
 /* Sidebar nav */
@@ -128,7 +133,7 @@ a.sidebar-nav-item:focus {
 
 @media (min-width: 48em) {
   .content {
-    max-width: 38rem;
+    max-width: 40rem;
     margin-left: 20rem;
     margin-right: 2rem;
   }
@@ -165,7 +170,6 @@ a.sidebar-nav-item:focus {
     margin-right: 22rem;
   }
 }
-
 
 
 /*
@@ -247,4 +251,24 @@ a.sidebar-nav-item:focus {
 .theme-base-0f .content a,
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
+}
+
+/* My custom css for the avatar */
+
+.circular--square {
+  border-radius: 50%;
+  border: 0.25em dotted #ffffff;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+}
+
+@media (min-width: 48em) {
+  .center {
+    width: 50%;
+  }
 }
