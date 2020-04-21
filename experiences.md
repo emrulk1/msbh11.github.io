@@ -16,9 +16,9 @@ title: Experiences
 
 ## Training/Workshop 
 
-* Tech Summit & Career Bootcamp - [Leads Corporation LTD] 
+* Tech Summit & Career Bootcamp - [Leads Corporation LTD](https://www.leads.com.bd) 
 *2 days
 
-* Industrial Attachment (Web & Machine learning) - [Rankmylist Inc.] 
+* Industrial Attachment (Web & Machine learning) - [Rankmylist Inc.](https://www.rankmylist.com/) 
 *2 weeks
 
