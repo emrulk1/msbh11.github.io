@@ -13,16 +13,16 @@ title: Skills
 
 ## Framework / Library
 >
-* Laravel 5.7
-* Node.Js
+* [Laravel 5.7](https://laravel.com/)
+* [Node.Js](https://nodejs.org/en/)
 
 ## Technologies 
 >
-* Github 
+* [Github](https://github.com) 
 * Rest API
-* Android Studio 
-* VSC
-* Postman
+* [Android Studio] 
+* [VSC](https://code.visualstudio.com/)
+* [Postman](https://www.postman.com/)
 
 
 
