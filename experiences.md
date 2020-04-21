@@ -16,8 +16,9 @@ title: Experiences
 
 ## Training/Workshop 
 
-### Industrial Attachment (Web & Machine learning) - [Rankmylist Inc.](https://www.rankmylist.com/) 
+### Industrial Attachment - [Rankmylist Inc.](https://www.rankmylist.com/) 
 *2 weeks*
+> Here , I basically worked on QA . And afterwards worked on image processing tasks for a ml project . 
 
 ### Tech Summit & Career Bootcamp - [Leads Corporation LTD](https://www.leads.com.bd) 
 *2 days*
