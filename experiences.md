@@ -14,3 +14,11 @@ title: Experiences
 
 > I basically worked as a Backend Developer. I worked on backend development for an ecommerce app built using NodeJs and Android.
 
+## Training/Workshop 
+
+* Tech Summit & Career Bootcamp - [Leads Corporation LTD] 
+*2 days
+
+* Industrial Attachment (Web & Machine learning) - [Rankmylist Inc.] 
+*2 weeks
+
