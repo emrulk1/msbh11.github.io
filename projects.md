@@ -4,9 +4,8 @@ title: Projects
 ---
 
 ## Web Application
-> Title: [Shop Com](https://msbh11.github.io/Shop-Com/.)
-
-*October,2019 – December, 2019*
+>Title: [Shop Com](https://msbh11.github.io/Shop-Com/.)
+*(October,2019 – December, 2019)*
 
 * Description: Here I have implemented a website for ecommerce business. It has the inventory of the shop, all products are displayed. It has three different functionalities for two types of user: (1) Customer (2) Inventory Manager . 
 * Technology: Laravel5.7,PHP7
