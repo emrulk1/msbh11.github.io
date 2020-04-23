@@ -4,7 +4,7 @@ title: Projects
 ---
 
 ## Web Application
-> Title:[Shop Com](https://github.com/msbh11/Shop-Com)
+> Title: [Shop Com](https://msbh11.github.io/Shop-Com/.)
 
 *October,2019 – December, 2019*
 
