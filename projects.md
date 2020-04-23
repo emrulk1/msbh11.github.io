@@ -10,8 +10,6 @@ title: Projects
 
 * Description: Here I have implemented a website for ecommerce business. It has the inventory of the shop, all products are displayed. It has three different functionalities for two types of user: (1) Customer (2) Inventory Manager . 
 * Technology: Laravel5.7,PHP7
-* [Admin Panel](https://bit.ly/2YAICWt )
-* [User Panel](https://bit.ly/34epnU4 )
 
 > Title: [TodoList Application](https://bit.ly/2lQ0jSG)
 
